@@ -1,0 +1,17 @@
+{
+    "name": "cinzel-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Natanael Gama"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cinzel-bower.git"
+    },
+    "description": "Cinzel font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
